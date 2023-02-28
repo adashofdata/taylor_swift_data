@@ -4,7 +4,7 @@ This repo contains the data that I collected to do the analysis for this blog po
 
 You can also see the video summary of my analysis on YouTube: https://youtu.be/71XwjNzzDXA
 
-The data sets contains details about her songs from her first 10 studio albums (up through Midnights). I gathered the data through the Genius API (lyrics) and Spotify API (song metadata).
+The data sets contain details about her songs from her first 10 studio albums (up through Midnights). I gathered the data through the Genius API (lyrics) and Spotify API (song metadata).
 
 ## For the non-technical people
 
