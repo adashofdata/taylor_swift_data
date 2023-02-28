@@ -14,7 +14,7 @@ This main folder contains:
 * *Taylor_Swift_Spotify_Data.xlsx*: Spreadsheet with song metadata
 * *Taylor_Swift_Words_Data.xlsx*: Spreadhseet with lyric data broken down into words
 
-To access the data, you can click on any Taylor_Swift_Type_Data.xlsx spreadsheet and then click the Download button at the top right.
+To access the data, you can click on any *Taylor_Swift_Type_Data.xlsx* spreadsheet and then click the **Download** button at the top right.
 
 ## For the technical people
 
