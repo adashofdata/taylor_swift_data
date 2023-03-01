@@ -2,7 +2,7 @@
 
 This repo contains the data that I collected to do the analysis for this blog post: https://adashofdata.com/2023/03/01/a-data-scientist-breaks-down-all-10-taylor-swift-albums-the-extended-version/
 
-You can also see the video summary of my analysis on YouTube: https://youtu.be/71XwjNzzDXA
+You can also see the video summary of my analysis on YouTube: https://youtu.be/ZNFms8sUbTw
 
 The data sets contain details about her songs from her first 10 studio albums (up through Midnights). I gathered the data through the Genius API (lyrics) and Spotify API (song metadata).
 
