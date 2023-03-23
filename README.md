@@ -11,6 +11,7 @@ The data sets contain details about her songs from her first 10 studio albums (u
 This main folder contains:
 
 * *Taylor_Swift_Genius_Data.xlsx*: Spreadsheet with lyrics data
+* *Taylor_Swift_Set_List_Data.xlsx*: Spreadsheet with set lists from her 6 tours
 * *Taylor_Swift_Spotify_Data.xlsx*: Spreadsheet with song metadata
 * *Taylor_Swift_Words_Data.xlsx*: Spreadhseet with lyrics data broken down into words
 
